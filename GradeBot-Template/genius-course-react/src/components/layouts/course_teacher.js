@@ -7,9 +7,9 @@ class CourseTeacher extends React.Component {
         <div className="jarallax">
           <div className="container">
             <div className="section-title mb20 headline text-center ">
-              <span className="subtitle text-uppercase">OUR PROFESSIONAL</span>
+              <span className="subtitle text-uppercase">MEET OUR</span>
               <h2>
-                Genius Courses <span>Teachers.</span>
+                6th Grade <span>Teachers.</span>
               </h2>
             </div>
             <div className="teacher-list">
@@ -47,7 +47,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Mobile Apps </span>
+                          <span className="st-name">Math </span>
                         </div>
                       </div>
                     </div>
@@ -87,7 +87,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Mobile Apps </span>
+                          <span className="st-name">Literature </span>
                         </div>
                       </div>
                     </div>
@@ -116,7 +116,7 @@ class CourseTeacher extends React.Component {
                           </li>
                         </ul>
                         <div className="teacher-name">
-                          <span>Berliana Luis</span>
+                          <span>Mathew Smith</span>
                         </div>
                       </div>
                       <div className="teacher-img-category">
@@ -127,7 +127,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">IOS Apps </span>
+                          <span className="st-name">Social Studies </span>
                         </div>
                       </div>
                     </div>
@@ -167,7 +167,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Graphic </span>
+                          <span className="st-name">Language Arts </span>
                         </div>
                       </div>
                     </div>
@@ -196,7 +196,7 @@ class CourseTeacher extends React.Component {
                           </li>
                         </ul>
                         <div className="teacher-name">
-                          <span>Lisha Chambelt</span>
+                          <span>Joe Chambelt</span>
                         </div>
                       </div>
                       <div className="teacher-img-category">
@@ -207,7 +207,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Mobile Apps </span>
+                          <span className="st-name">Computers </span>
                         </div>
                       </div>
                     </div>
@@ -236,7 +236,7 @@ class CourseTeacher extends React.Component {
                           </li>
                         </ul>
                         <div className="teacher-name">
-                          <span>Checilia Yeoung</span>
+                          <span>Cecil Young</span>
                         </div>
                       </div>
                       <div className="teacher-img-category">
@@ -247,7 +247,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Mobile Apps </span>
+                          <span className="st-name">Science </span>
                         </div>
                       </div>
                     </div>
@@ -287,7 +287,7 @@ class CourseTeacher extends React.Component {
                           </div>
                         </div>
                         <div className="teacher-category float-right">
-                          <span className="st-name">Mobile Apps </span>
+                          <span className="st-name">Art </span>
                         </div>
                       </div>
                     </div>

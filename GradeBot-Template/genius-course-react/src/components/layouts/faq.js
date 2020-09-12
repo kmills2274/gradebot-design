@@ -45,7 +45,7 @@ class Faq extends React.Component {
       <section id="faq" className="faq-section">
         <div className="container">
           <div className="section-title mb45 headline text-center ">
-            <span className="subtitle text-uppercase">GENIUS COURSE FAQ</span>
+            <span className="subtitle text-uppercase">GRADEBOT COURSES FAQ</span>
             <h2>
               Frequently<span> Ask & Questions</span>
             </h2>
@@ -68,7 +68,7 @@ class Faq extends React.Component {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="ques-ans mb45 headline ">
-                        <h3> What is Genius Courses?</h3>
+                        <h3> What is Gradebot Courses?</h3>
                         <p>
                           Lorem ipsum dolor sit amet, consectetuer adipiscing
                           elit, sed diam nonummy nibh euismod tincidunt ut
@@ -88,7 +88,7 @@ class Faq extends React.Component {
                     </div>
                     <div className="col-md-6">
                       <div className="ques-ans mb45 headline ">
-                        <h3> How to Register or Make An Account in Genius?</h3>
+                        <h3> How to Register or Make An Account in Gradebot?</h3>
                         <p>
                           Lorem ipsum dolor sit amet, consectetuer adipiscing
                           elit, sed diam nonummy nibh euismod tincidunt ut

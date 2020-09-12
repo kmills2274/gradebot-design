@@ -303,13 +303,13 @@ h6 {
 .section-title h2 {
   font-size: 55px;
   font-weight: 300;
-  color: #333333; }
+  color: white; }
   .section-title h2 span {
     font-weight: 700; }
 
 .section-title-2 h2 {
   font-size: 38px;
-  color: #333333;
+  color: white;
   font-weight: 300;
   position: relative; }
   .section-title-2 h2 span {
@@ -4728,7 +4728,7 @@ ul.product-tab li.active:after {
   .section-title h2 {
     font-size: 45px; }
   .course-title h3 {
-    color: #333333; }
+    color: white; }
   .navbar-menu {
     display: none; }
   .main-menu-container.menu-bg-overlay {

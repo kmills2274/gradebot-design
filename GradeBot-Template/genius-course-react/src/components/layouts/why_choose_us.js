@@ -64,9 +64,9 @@ class WhyChooseUs extends React.Component {
         <div className="jarallax  backgroud-style">
           <div className="container">
             <div className="section-title mb20 headline text-center ">
-              <span className="subtitle text-uppercase">GENIUS ADVANTAGES</span>
+              <span className="subtitle text-uppercase">GRADEBOT ADVANTAGES</span>
               <h2>
-                Reason <span>Why Choose Genius.</span>
+                Reasons <span>To Choose GRADEBOT.</span>
               </h2>
             </div>
             <OwlCarousel

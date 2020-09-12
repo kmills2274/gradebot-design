@@ -6,8 +6,8 @@ class WhyChooseUsTwo extends Component {
             <section id="why-choose" className="why-choose-section backgroud-style">
                 <div className="container">
                     <div className="section-title mb20 headline text-center">
-                        <span className="subtitle text-uppercase">GENIUS ADVANTAGES</span>
-                        <h2>Reason <span>Why Choose Genius.</span></h2>
+                        <span className="subtitle text-uppercase">GRADEBOT ADVANTAGES</span>
+                        <h2>Reasons <span>To Choose Gradebot.</span></h2>
                     </div>
                     <div className="extra-features-content">
                         <div className="row">

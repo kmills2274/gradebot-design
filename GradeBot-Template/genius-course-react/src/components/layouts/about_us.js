@@ -80,13 +80,13 @@ class AboutUs extends React.Component {
             {}
             <div className="col-md-7">
               <div className="about-us-text">
-                <div className="section-title relative-position mb20 headline text-left ">
+                <div className="section-title relative-position mb20 headline text-left">
                   <span className="subtitle ml42 text-uppercase">
-                    SORT ABOUT US
+                    ABOUT US
                   </span>
                   <h2>
-                    We are <span>Genius Course</span>
-                    work since 1980.
+                    We are <span>GRADEBOT  </span>
+                      Online Learning Management System
                   </h2>
                   <p>
                     We take our mission of increasing global access to quality

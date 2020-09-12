@@ -11,7 +11,7 @@ class Footer extends React.Component {
                 <div className="col-md-3">
                   <div className="footer-widget ">
                     <div className="footer-logo mb35">
-                      <img src={require( "../../assets/img/logo/f-logo.png")} alt="" />
+                      <img src={require( "../../assets/img/logo/logo2.png")} alt="" />
                     </div>
                     <div className="footer-about-text">
                       <p>
@@ -252,15 +252,7 @@ class Footer extends React.Component {
                 <div className="col-md-6">
                   <div className="copy-right-text">
                     <p>
-                      © 2018 - Designed & Developed by{" "}
-                      <a
-                        href="https://jthemes.com"
-                        title="Best Premium WordPress, HTML Template Store"
-                      >
-                        {" "}
-                        Jthemes Studio
-                      </a>
-                      . All rights reserved
+                      © 2020 GradeBot
                     </p>
                   </div>
                 </div>

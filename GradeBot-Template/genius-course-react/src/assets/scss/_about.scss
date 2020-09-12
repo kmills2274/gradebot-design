@@ -1,5 +1,8 @@
 .about-us-section {
-	background-color: #f7f7f7;
+	background-image: url(../img/banner/chalkboard.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 	padding: 125px 0px;
 	overflow: visible;
 }
@@ -12,10 +15,10 @@
 .register-content {
 	position: relative;
 }
-.register-fomr-title {
+.register-form-title {
 	h3 {
 		font-size: 35px;
-		color: $white;
+		color: white;
 		span {
 			font-weight: 300;
 		}
@@ -61,12 +64,12 @@
 }
 .about-us-text {
 	padding-top: 35px;
-	.section-title {
+	.about-section-title {
 		margin-bottom: 60px;
 		p {
 			font-size: 22px;
 			font-weight: 500;
-			color: $black;
+			color: white;
 			margin-top: 20px;
 		}
 		&:after {
@@ -82,13 +85,13 @@
 .about-content-text {
 	p {
 		font-size: 18px;
-		color: $black;
+		color: $white;
 	}
 }
 .about-list {
 	li {
 		font-weight: 500;
-		color: $black;
+		color: $white;
 		margin-bottom: 8px;
 		padding-left: 25px;
 		position: relative;

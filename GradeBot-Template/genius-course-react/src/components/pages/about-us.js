@@ -92,8 +92,8 @@ class AboutUs extends Component {
                                     </div>
 
                                     < div className="about-text-item">
-                                        <div className="section-title-2  headline text-left">
-                                            <h2>We Are <span>Genius Course,</span> Online Course Since 1990</h2>
+                                        <div className="section-title  headline text-left">
+                                            <h2>We Are <span>GRADEBOT</span> THE Online Learning Management System</h2>
                                         </div>
                                         <p>
                                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
@@ -106,7 +106,7 @@ class AboutUs extends Component {
                                     < div className="course-teacher about-teacher-2">
                                         <div className="course-advantage about-teacher-2">
                                             <div className="section-title-2  headline text-left">
-                                                <h2>Genius Course <span>Advantages</span></h2>
+                                                <h2>GradeBot <span>Advantages</span></h2>
                                             </div>
                                             <OwlCarousel {...service_slide_3options} className="service-slide_3 owl-carousel">
                                                 <div className="service-text-icon">
