@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .section-title .subtitle{
-    color: #a9a3a3;
+    color: white;
     letter-spacing: 7px;
     position: relative;
 }
@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6{
 
 .section-title-2 h2{
     font-size: 38px;
-    color: #333333;
+    color: white;
     font-weight: 300;
     position: relative;
 }
@@ -1986,7 +1986,7 @@ button.alt-menu-btn.float-left{
 .about-us-text .section-title p{
     font-size: 22px;
     font-weight: 500;
-    color: #333333;
+    color: white;
     margin-top: 20px;
 }
 

@@ -15,7 +15,7 @@
 .register-fomr-title {
 	h3 {
 		font-size: 35px;
-		color: $white;
+		color: $white !important;
 		span {
 			font-weight: 300;
 		}
@@ -66,7 +66,7 @@
 		p {
 			font-size: 22px;
 			font-weight: 500;
-			color: $black;
+			color: white;
 			margin-top: 20px;
 		}
 		&:after {
@@ -77,12 +77,14 @@
 			width: 50px;
 			background-color: $base-color-2;
 		}
+		h2 {
+			color: white;
+		}
 	}
 }
 .about-content-text {
 	p {
 		font-size: 18px;
-		color: $black;
 	}
 }
 .about-list {
